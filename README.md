@@ -1,6 +1,6 @@
 # Tasca1
 
-# LocalitzarFitxer.ps1
+## LocalitzarFitxer.ps1
 - Un script que permeti localitzar un fitxer o directori a una ruta concreta
 
 # Backup.ps1
